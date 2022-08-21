@@ -1,0 +1,44 @@
+---
+title: "My Personal Portfolio"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **My Personal Portfolio**
+
+This is the portfolio Website of Sandeep P. Interesting analyses on socially relevant Open data will be published here. There will also be links to interactive visualizations hosted elsewhere. The analyses would typically consist of commentary following visuals.
+
+
+## How to View
+
+1. Browse through the blog/ journal to read/ view different analyses
+
+2. Use the Github issues at sanh2o.github.io to raise any particular issues, questions or comments
+
+3. Click on relevant links for further interactive exploration of visualizations
+
+4. Change everything to make it your own.
+
+
+</div>
+<div class="col-sm-6">
+
+### [Sandeep P: Open Data Journey](https://sanh2o.github.io/Open-Data-Journey)
+
+<a href = "https://sanh2o.github.io/Open-Data-Journey">
+![](images/logo.png)
+</a>
+</div>

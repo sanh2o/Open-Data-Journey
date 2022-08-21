@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "Open Data Journey"
 navbar:
-  title: "MyLabJournal"
+  title: "Open Data Journey"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
+    - text: "Blog"
+      href: Blog.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
